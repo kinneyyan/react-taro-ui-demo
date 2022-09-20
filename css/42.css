@@ -1,1 +1,1 @@
-.bf-tags,.bf-tags .tag-item{display:flex;align-items:center}.bf-tags{flex-direction:row}.bf-tags .tag-item{height:.768rem;border-radius:.08533rem;font-size:.42667rem;font-weight:400;padding:0 .256rem;justify-content:center}.bf-tags .tag-item:not(:first-child){margin-left:.17067rem}
+.bf-list-footer{display:flex;flex-direction:row;align-items:center;justify-content:center;color:#999;font-weight:400;font-size:.512rem;margin:.68267rem auto}
